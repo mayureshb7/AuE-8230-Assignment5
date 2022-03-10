@@ -1,5 +1,5 @@
 
-This files describes running Obstacle Avoidance and Wallfollowing of a Turtlebot3 Burger on Gazebo and Obstacle Avoidance by Turtlebot3 Burger in real world
+These files describes running Obstacle Avoidance and Wallfollowing of a Turtlebot3 Burger on Gazebo and Obstacle Avoidance by Turtlebot3 Burger in real world
 
 	1) Wall Following - Gazebo
 		a) Launch command: roslaunch assignment5_wallfollowingandobstacleavoidance turtlebot3_wallfollowing.launch
